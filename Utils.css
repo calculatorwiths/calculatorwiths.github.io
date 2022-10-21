@@ -1,0 +1,40 @@
+.text-center{
+    text-align: center;
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+
+  .button-color{
+    background-color: yellow;
+  }
+  .button-color1{
+    background-color: #82B6D9;
+  }
+  
+  .button-thanks{
+    background-color: yellow;
+    border-radius: 20px;
+    width: 217px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+  }
